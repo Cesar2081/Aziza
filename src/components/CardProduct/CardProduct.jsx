@@ -5,7 +5,7 @@ import {motion} from 'framer-motion';
 import './CardProduct.css';
 import { Col } from 'reactstrap';
 import { Link } from 'react-router-dom';
-import figura from '../../assets/images/arm-chair-01.jpg';
+import figura from '../../assets/images/bedroom copy.jpg';
 
 
 const ProductCard = () => {
