@@ -30,19 +30,19 @@ const Footer = () => {
         <Col lg='3' md='3' className='mb-4'>
           <div className="footer__quick-links">
             <h4 className="quick__links-title">
-              Top Categories
+              Categorias
             </h4>
             <ListGroup className='mb-3'>
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
-                <Link to='#'>Mobile Phone</Link>
+                <Link to='#'>Bebés</Link>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
-                <Link to='#'>Modern Sofa</Link>
+                <Link to='#'>Hogar</Link>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
-                <Link to='#'>Arm Chair</Link>
+                <Link to='#'>Relojes</Link>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
@@ -85,7 +85,7 @@ const Footer = () => {
             <ListGroup className='mb-3 footer__contact'>
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
                 <span><i class="ri-map-pin-line"></i></span>
-                <p>123 Zindabazar, Skilker, Bangladesh</p>
+                <p>36ava entre Portete y Venezuela, Guayas, Guayaquil</p>
               </ListGroupItem>
 
               <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
